@@ -165,4 +165,6 @@ module alu(
                         alu_lui           ? lui_result :
                         32'd0;
     //test string2
+    //test string
+    //手动解决冲突
 endmodule
