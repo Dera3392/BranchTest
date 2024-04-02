@@ -164,4 +164,5 @@ module alu(
                         alu_sra           ? sra_result :
                         alu_lui           ? lui_result :
                         32'd0;
+    //test string2
 endmodule

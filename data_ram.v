@@ -125,4 +125,5 @@ module data_ram(
             5'd31: test_data = DM[31];
         endcase
     end
+    //test string2
 endmodule
